@@ -1,0 +1,10 @@
+C:\Users\Ucenik\source\repos\Windows kontrola\Windows kontrola\bin\Debug\Windows kontrola.exe.config
+C:\Users\Ucenik\source\repos\Windows kontrola\Windows kontrola\bin\Debug\Windows kontrola.exe
+C:\Users\Ucenik\source\repos\Windows kontrola\Windows kontrola\bin\Debug\Windows kontrola.pdb
+C:\Users\Ucenik\source\repos\Windows kontrola\Windows kontrola\obj\Debug\Windows kontrola.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\Windows kontrola\Windows kontrola\obj\Debug\Windows_kontrola.Form1.resources
+C:\Users\Ucenik\source\repos\Windows kontrola\Windows kontrola\obj\Debug\Windows_kontrola.Properties.Resources.resources
+C:\Users\Ucenik\source\repos\Windows kontrola\Windows kontrola\obj\Debug\Windows kontrola.csproj.GenerateResource.cache
+C:\Users\Ucenik\source\repos\Windows kontrola\Windows kontrola\obj\Debug\Windows kontrola.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\Windows kontrola\Windows kontrola\obj\Debug\Windows kontrola.exe
+C:\Users\Ucenik\source\repos\Windows kontrola\Windows kontrola\obj\Debug\Windows kontrola.pdb
